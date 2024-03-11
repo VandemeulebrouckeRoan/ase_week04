@@ -12,4 +12,9 @@ public class Dog : Animal
     {
         Console.WriteLine("Woof");
     }
+
+    public override string ToString()
+    {
+        return $"Name: {Name}, Age: {Age}, Breed: {Breed}";
+    }
 }

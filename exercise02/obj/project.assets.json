@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roanv\\OneDrive\\Documenten\\howest 2023-2024\\semister 2\\advanced software engineering\\week 4\\ase_week04\\exercise01\\exercise02\\exercise02.csproj",
+      "projectUniqueName": "C:\\Users\\roanv\\OneDrive\\Documenten\\howest 2023-2024\\semister 2\\advanced software engineering\\week 4\\ase_week04\\exercise02\\exercise02.csproj",
       "projectName": "exercise02",
-      "projectPath": "C:\\Users\\roanv\\OneDrive\\Documenten\\howest 2023-2024\\semister 2\\advanced software engineering\\week 4\\ase_week04\\exercise01\\exercise02\\exercise02.csproj",
+      "projectPath": "C:\\Users\\roanv\\OneDrive\\Documenten\\howest 2023-2024\\semister 2\\advanced software engineering\\week 4\\ase_week04\\exercise02\\exercise02.csproj",
       "packagesPath": "C:\\Users\\roanv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roanv\\OneDrive\\Documenten\\howest 2023-2024\\semister 2\\advanced software engineering\\week 4\\ase_week04\\exercise01\\exercise02\\obj\\",
+      "outputPath": "C:\\Users\\roanv\\OneDrive\\Documenten\\howest 2023-2024\\semister 2\\advanced software engineering\\week 4\\ase_week04\\exercise02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roanv\\AppData\\Roaming\\NuGet\\NuGet.Config"
